@@ -1,0 +1,516 @@
+{
+    "d:\\Programer_C\\openCV\\projekt\\search_and_processing_of_photos\\test_photo\\55": {
+        "jpg": {
+            "Face": {
+                "X": "1433",
+                "Y": "123",
+                "Height": "118",
+                "Width": "118"
+            },
+            "Face": {
+                "X": "1433",
+                "Y": "123",
+                "Height": "118",
+                "Width": "118"
+            },
+            "Face": {
+                "X": "1433",
+                "Y": "123",
+                "Height": "118",
+                "Width": "118"
+            },
+            "Face": {
+                "X": "1433",
+                "Y": "123",
+                "Height": "118",
+                "Width": "118"
+            },
+            "Face": {
+                "X": "1433",
+                "Y": "123",
+                "Height": "118",
+                "Width": "118"
+            }
+        }
+    },
+    "d:\\Programer_C\\openCV\\projekt\\search_and_processing_of_photos\\test_photo\\children": {
+        "jpg": {
+            "Face": {
+                "X": "921",
+                "Y": "45",
+                "Height": "55",
+                "Width": "55"
+            },
+            "Face": {
+                "X": "921",
+                "Y": "45",
+                "Height": "55",
+                "Width": "55"
+            },
+            "Face": {
+                "X": "921",
+                "Y": "45",
+                "Height": "55",
+                "Width": "55"
+            },
+            "Face": {
+                "X": "921",
+                "Y": "45",
+                "Height": "55",
+                "Width": "55"
+            },
+            "Face": {
+                "X": "921",
+                "Y": "45",
+                "Height": "55",
+                "Width": "55"
+            },
+            "Face": {
+                "X": "921",
+                "Y": "45",
+                "Height": "55",
+                "Width": "55"
+            },
+            "Face": {
+                "X": "921",
+                "Y": "45",
+                "Height": "55",
+                "Width": "55"
+            },
+            "Face": {
+                "X": "921",
+                "Y": "45",
+                "Height": "55",
+                "Width": "55"
+            },
+            "Face": {
+                "X": "921",
+                "Y": "45",
+                "Height": "55",
+                "Width": "55"
+            },
+            "Face": {
+                "X": "921",
+                "Y": "45",
+                "Height": "55",
+                "Width": "55"
+            },
+            "Face": {
+                "X": "921",
+                "Y": "45",
+                "Height": "55",
+                "Width": "55"
+            },
+            "Face": {
+                "X": "921",
+                "Y": "45",
+                "Height": "55",
+                "Width": "55"
+            },
+            "Face": {
+                "X": "921",
+                "Y": "45",
+                "Height": "55",
+                "Width": "55"
+            }
+        }
+    },
+    "d:\\Programer_C\\openCV\\projekt\\search_and_processing_of_photos\\test_photo\\lena": {
+        "jpg": {
+            "Face": {
+                "X": "214",
+                "Y": "203",
+                "Height": "172",
+                "Width": "172"
+            }
+        }
+    },
+    "d:\\Programer_C\\openCV\\projekt\\search_and_processing_of_photos\\test_photo\\men\\55": {
+        "jpg": {
+            "Face": {
+                "X": "1433",
+                "Y": "123",
+                "Height": "118",
+                "Width": "118"
+            },
+            "Face": {
+                "X": "1433",
+                "Y": "123",
+                "Height": "118",
+                "Width": "118"
+            },
+            "Face": {
+                "X": "1433",
+                "Y": "123",
+                "Height": "118",
+                "Width": "118"
+            },
+            "Face": {
+                "X": "1433",
+                "Y": "123",
+                "Height": "118",
+                "Width": "118"
+            },
+            "Face": {
+                "X": "1433",
+                "Y": "123",
+                "Height": "118",
+                "Width": "118"
+            }
+        }
+    },
+    "d:\\Programer_C\\openCV\\projekt\\search_and_processing_of_photos\\test_photo\\men\\people": {
+        "jpeg": {
+            "Face": {
+                "X": "642",
+                "Y": "178",
+                "Height": "39",
+                "Width": "39"
+            },
+            "Face": {
+                "X": "642",
+                "Y": "178",
+                "Height": "39",
+                "Width": "39"
+            },
+            "Face": {
+                "X": "642",
+                "Y": "178",
+                "Height": "39",
+                "Width": "39"
+            },
+            "Face": {
+                "X": "642",
+                "Y": "178",
+                "Height": "39",
+                "Width": "39"
+            },
+            "Face": {
+                "X": "642",
+                "Y": "178",
+                "Height": "39",
+                "Width": "39"
+            },
+            "Face": {
+                "X": "642",
+                "Y": "178",
+                "Height": "39",
+                "Width": "39"
+            },
+            "Face": {
+                "X": "642",
+                "Y": "178",
+                "Height": "39",
+                "Width": "39"
+            },
+            "Face": {
+                "X": "642",
+                "Y": "178",
+                "Height": "39",
+                "Width": "39"
+            },
+            "Face": {
+                "X": "642",
+                "Y": "178",
+                "Height": "39",
+                "Width": "39"
+            },
+            "Face": {
+                "X": "642",
+                "Y": "178",
+                "Height": "39",
+                "Width": "39"
+            },
+            "Face": {
+                "X": "642",
+                "Y": "178",
+                "Height": "39",
+                "Width": "39"
+            },
+            "Face": {
+                "X": "642",
+                "Y": "178",
+                "Height": "39",
+                "Width": "39"
+            }
+        }
+    },
+    "d:\\Programer_C\\openCV\\projekt\\search_and_processing_of_photos\\test_photo\\people": {
+        "jpeg": {
+            "Face": {
+                "X": "642",
+                "Y": "178",
+                "Height": "39",
+                "Width": "39"
+            },
+            "Face": {
+                "X": "642",
+                "Y": "178",
+                "Height": "39",
+                "Width": "39"
+            },
+            "Face": {
+                "X": "642",
+                "Y": "178",
+                "Height": "39",
+                "Width": "39"
+            },
+            "Face": {
+                "X": "642",
+                "Y": "178",
+                "Height": "39",
+                "Width": "39"
+            },
+            "Face": {
+                "X": "642",
+                "Y": "178",
+                "Height": "39",
+                "Width": "39"
+            },
+            "Face": {
+                "X": "642",
+                "Y": "178",
+                "Height": "39",
+                "Width": "39"
+            },
+            "Face": {
+                "X": "642",
+                "Y": "178",
+                "Height": "39",
+                "Width": "39"
+            },
+            "Face": {
+                "X": "642",
+                "Y": "178",
+                "Height": "39",
+                "Width": "39"
+            },
+            "Face": {
+                "X": "642",
+                "Y": "178",
+                "Height": "39",
+                "Width": "39"
+            },
+            "Face": {
+                "X": "642",
+                "Y": "178",
+                "Height": "39",
+                "Width": "39"
+            },
+            "Face": {
+                "X": "642",
+                "Y": "178",
+                "Height": "39",
+                "Width": "39"
+            },
+            "Face": {
+                "X": "642",
+                "Y": "178",
+                "Height": "39",
+                "Width": "39"
+            }
+        }
+    },
+    "d:\\Programer_C\\openCV\\projekt\\search_and_processing_of_photos\\test_photo\\women\\55": {
+        "jpg": {
+            "Face": {
+                "X": "1433",
+                "Y": "123",
+                "Height": "118",
+                "Width": "118"
+            },
+            "Face": {
+                "X": "1433",
+                "Y": "123",
+                "Height": "118",
+                "Width": "118"
+            },
+            "Face": {
+                "X": "1433",
+                "Y": "123",
+                "Height": "118",
+                "Width": "118"
+            },
+            "Face": {
+                "X": "1433",
+                "Y": "123",
+                "Height": "118",
+                "Width": "118"
+            },
+            "Face": {
+                "X": "1433",
+                "Y": "123",
+                "Height": "118",
+                "Width": "118"
+            }
+        }
+    },
+    "d:\\Programer_C\\openCV\\projekt\\search_and_processing_of_photos\\test_photo\\women\\children": {
+        "jpg": {
+            "Face": {
+                "X": "921",
+                "Y": "45",
+                "Height": "55",
+                "Width": "55"
+            },
+            "Face": {
+                "X": "921",
+                "Y": "45",
+                "Height": "55",
+                "Width": "55"
+            },
+            "Face": {
+                "X": "921",
+                "Y": "45",
+                "Height": "55",
+                "Width": "55"
+            },
+            "Face": {
+                "X": "921",
+                "Y": "45",
+                "Height": "55",
+                "Width": "55"
+            },
+            "Face": {
+                "X": "921",
+                "Y": "45",
+                "Height": "55",
+                "Width": "55"
+            },
+            "Face": {
+                "X": "921",
+                "Y": "45",
+                "Height": "55",
+                "Width": "55"
+            },
+            "Face": {
+                "X": "921",
+                "Y": "45",
+                "Height": "55",
+                "Width": "55"
+            },
+            "Face": {
+                "X": "921",
+                "Y": "45",
+                "Height": "55",
+                "Width": "55"
+            },
+            "Face": {
+                "X": "921",
+                "Y": "45",
+                "Height": "55",
+                "Width": "55"
+            },
+            "Face": {
+                "X": "921",
+                "Y": "45",
+                "Height": "55",
+                "Width": "55"
+            },
+            "Face": {
+                "X": "921",
+                "Y": "45",
+                "Height": "55",
+                "Width": "55"
+            },
+            "Face": {
+                "X": "921",
+                "Y": "45",
+                "Height": "55",
+                "Width": "55"
+            },
+            "Face": {
+                "X": "921",
+                "Y": "45",
+                "Height": "55",
+                "Width": "55"
+            }
+        }
+    },
+    "d:\\Programer_C\\openCV\\projekt\\search_and_processing_of_photos\\test_photo\\women\\lena": {
+        "jpg": {
+            "Face": {
+                "X": "214",
+                "Y": "203",
+                "Height": "172",
+                "Width": "172"
+            }
+        }
+    },
+    "d:\\Programer_C\\openCV\\projekt\\search_and_processing_of_photos\\test_photo\\women\\people": {
+        "jpeg": {
+            "Face": {
+                "X": "642",
+                "Y": "178",
+                "Height": "39",
+                "Width": "39"
+            },
+            "Face": {
+                "X": "642",
+                "Y": "178",
+                "Height": "39",
+                "Width": "39"
+            },
+            "Face": {
+                "X": "642",
+                "Y": "178",
+                "Height": "39",
+                "Width": "39"
+            },
+            "Face": {
+                "X": "642",
+                "Y": "178",
+                "Height": "39",
+                "Width": "39"
+            },
+            "Face": {
+                "X": "642",
+                "Y": "178",
+                "Height": "39",
+                "Width": "39"
+            },
+            "Face": {
+                "X": "642",
+                "Y": "178",
+                "Height": "39",
+                "Width": "39"
+            },
+            "Face": {
+                "X": "642",
+                "Y": "178",
+                "Height": "39",
+                "Width": "39"
+            },
+            "Face": {
+                "X": "642",
+                "Y": "178",
+                "Height": "39",
+                "Width": "39"
+            },
+            "Face": {
+                "X": "642",
+                "Y": "178",
+                "Height": "39",
+                "Width": "39"
+            },
+            "Face": {
+                "X": "642",
+                "Y": "178",
+                "Height": "39",
+                "Width": "39"
+            },
+            "Face": {
+                "X": "642",
+                "Y": "178",
+                "Height": "39",
+                "Width": "39"
+            },
+            "Face": {
+                "X": "642",
+                "Y": "178",
+                "Height": "39",
+                "Width": "39"
+            }
+        }
+    }
+}
